@@ -1,0 +1,14 @@
+<?php
+    //menyimpan file json ke dalam ariable $file
+    $file = "data.json";
+    //memnggil variable $file dan menyimpan ke dalam variable $konten
+    $konten = file_get_contents($file);
+    //mengubah variable $konten menjadi array
+    $data = json_decode($konten, true);
+
+    foreach ($data as $key => $value) {
+        echo "Nama barang :" . $value['namaBarang'] . "<br>";
+        echo "Jenis :" . $value['jenis'] . "<br>";
+        echo "Jumlah :" . $value['jumlah'] . "<hr>";
+    }
+    ?>

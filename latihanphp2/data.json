@@ -1,0 +1,22 @@
+[
+    {
+        "namaBarang": "Meja",
+        "jenis": "Perabotan",
+        "jumlah": 3
+    },
+    {
+        "namaBarang": "Kursi",
+        "jenis": "Perabotan",
+        "jumlah": 10
+    },
+    {
+        "namaBarang": "Ember",
+        "jenis": "Perabotan",
+        "jumlah": 33
+    },
+    {
+        "namaBarang": "Gayung",
+        "jenis": "Perabotan",
+        "jumlah": 22
+    }
+]
