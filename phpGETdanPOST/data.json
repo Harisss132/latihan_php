@@ -1,0 +1,42 @@
+[
+    {
+        "nama": "Buku Tulis",
+        "jenis": "Alat Tulis",
+        "jumlah": 50
+    },
+    {
+        "nama": "Pensil",
+        "jenis": "Alat Tulis",
+        "jumlah": 100
+    },
+    {
+        "nama": "Penghapus",
+        "jenis": "Alat Tulis",
+        "jumlah": 75
+    },
+    {
+        "nama": "Penggaris",
+        "jenis": "Alat Tulis",
+        "jumlah": 30
+    },
+    {
+        "nama": "Samsung S21 Ultra",
+        "jenis": "Elektronik",
+        "jumlah": "35"
+    },
+    {
+        "nama": "Samsung S21 Ultra",
+        "jenis": "Elektronik",
+        "jumlah": "35"
+    },
+    {
+        "nama": "Pensil Warna",
+        "jenis": "Alat Tulis",
+        "jumlah": "55"
+    },
+    {
+        "nama": "Pulpen",
+        "jenis": "Alat Tulis",
+        "jumlah": "34"
+    }
+]
